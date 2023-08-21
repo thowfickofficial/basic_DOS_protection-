@@ -1,4 +1,4 @@
-# basic_DOS_protection
+# Basic_DOS_protection
 
 This is a simple Python script that limits the number of connections from the same IP address. You can adjust the maximum number of connections per IP and the ban time as needed.
 
